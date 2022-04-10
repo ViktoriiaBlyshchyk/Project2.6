@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Отказано в доступе по пути "d:\study\ооп\project2.6\x64\debug\unittest1.dll".
+  pch.cpp
+  UnitTest1.cpp
+LINK : fatal error LNK1104: не удается открыть файл "D:\Study\ООП\Project2.6\x64\Debug\UnitTest1.dll"
